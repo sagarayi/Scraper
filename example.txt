@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE>Welcome to VTU</TITLE>
+<META http-equiv=Content-Type content="text/html;url=http://results.vtu.ac.in/windows-1252">
+<LINK href="http://results.vtu.ac.in/../../image/main.css" type=text/css rel=stylesheet>
+
+
+
+
+
+<SCRIPT language=JavaScript> var currentpage = 'home';
+
+		if(document.images){
+			newson = new Image();
+			newson.src = "../image/newson.gif";
+			regionson= new Image();
+			regionson.src = "../image/regionson.gif";
+			regionsoff = new Image();
+			regionsoff.src = "../image/regionsoff.gif";
+			mediakiton = new Image();
+			mediakiton.src = "../image/mediakiton.gif";
+			mediakitoff = new Image();
+			mediakitoff.src = "../image/mediakitoff.gif";
+			abouton = new Image();
+			abouton.src = "../image/abouton.gif";
+			aboutoff = new Image();
+			aboutoff.src = "../image/aboutoff.gif";
+			contactuson = new Image();
+			contactuson.src = "../image/contactuson.gif";
+			contactusoff = new Image();
+			contactusoff.src = "../image/contactusoff.gif";
+			admissionson = new Image();
+			admissionson.src = "../image/admissionson.gif";
+			admissionsoff = new Image();
+			admissionsoff.src = "../image/admissionsoff.gif";
+			courseson = new Image();
+			courseson.src = "../image/courseson.gif";
+			Coursesoff = new Image();
+			coursesoff.src = "../image/coursesoff.gif";
+			examinationson = new Image();
+			examinationson.src = "../image/examinationson.gif";
+			examinationsoff = new Image();
+			examinationsoff.src = "../image/examinationsoff.gif";
+			administrationon = new Image();
+			administrationon.src = "../image/administrationon.gif";
+			administrationoff = new Image();
+			administrationoff.src = "../image/administrationoff.gif";
+
+
+		}
+
+		function rollover(name,state){
+
+	if(currentpage != name){
+				document[name].src = eval(name + state + '.src');
+				if(currentpage != 'home'){
+					document[currentpage].src = eval(currentpage + 'off.src');
+				}
+			}
+		}
+
+	</SCRIPT>
+
+<META content="http://results.vtu.ac.in/Microsoft FrontPage 5.0" name=GENERATOR>
+<style type="text/css">
+<!--
+.style1 {font-family: Georgia, "Times New Roman", Times, serif}
+-->
+</style>
+</HEAD>
+<BODY bottomMargin=0 vLink=#ffffff aLink=#ffffff link=#ffffff bgColor=#809cc9 leftMargin=0 background=http://results.vtu.ac.in/../image/ultranewbg.gif topMargin=0 rightMargin=0 marginheight="0" marginwidth="0">
+<TABLE cellSpacing=0 cellPadding=0 border=0 height="825">
+  <TBODY>
+  <TR>
+    <TD width=193 height="16"></TD>
+    <TD align=left width=428 height="16"></TD>
+    <TD height="16"></TD></TR>
+  <TR>
+    <TD align=left width=193 bgColor=#9CB6D6 height="88">
+      <p align="center">&nbsp;</p>
+    </TD>
+    <TD colSpan=2 height="88">
+      <TABLE cellSpacing=0 cellPadding=0 width=559 border=0>
+        <TBODY>
+        <TR>
+          <TD colSpan=2 width="557"><IMG alt="" border=0 height=4 src="http://results.vtu.ac.in/../image/bannertop.gif" width=560></TD></TR>
+        <TR>
+          <TD align=left width=84 bgColor=#ffffff><IMG alt="" border=0 src="http://results.vtu.ac.in/../image/bannerleft.gif" width="85" height="63"></TD>
+          <TD vAlign=top align=left bgColor=#ffffff width="465"><!-- START CF_ADCALL OUTPUT --><a href="http://results.vtu.ac.in/../vitavi.php"><IMG border=0 height=60 src="http://results.vtu.ac.in/../image/vishwere_sml2.GIF" width=390></a>
+
+            <NOSCRIPT> </NOSCRIPT></TD>
+        </TR>
+        <TR>
+          <TD colSpan=2 width="557"><IMG alt="" border=0 height=22 src="http://results.vtu.ac.in/../image/bannerbottom.gif" width=560></TD></TR></TBODY></TABLE></TD></TR><!-- first column -->
+  <TR>
+    <TD vAlign=top width=193 height="721">
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width=193><!-- LANGUAGE CHOOSER TABLE -->
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD></TD>
+                <TD></TD>
+                <TD></TD></TR></TBODY></TABLE></TD><!-- END OF LANGUAGE CHOOSER TABLE --></TR>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=0 width=193 border=0>
+              <TBODY>
+              <TR>
+                <TD width=5><IMG alt="" border=0 height=1 src="http://results.vtu.ac.in/../image/px.gif" width=5></TD>
+                <TD width=183>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 height="294">
+                    <TBODY>
+                    <TR>
+                      <TD width=12 height="13"><IMG alt="" border=0 height=11 src="http://results.vtu.ac.in/../image/px.gif" width=1></TD></TR>
+                    <TR>
+                      <TD vAlign=top height="16"><!--  SEARCH table --><!--  END OF SEARCH TABLE --></TD></TR>
+                    <TR>
+                      <TD height="16">
+                      </TD></TR>
+                    <TR>
+                      <TD height="45"></TD></TR>
+                    <TR>
+                      <TD height="52">
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD>
+                              <p>&nbsp;</p>
+                            </TD>
+                          </TR><TR>
+                            <TD colSpan=2 height=20></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD height="38">
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD></TD></TR>
+                          <TR>
+                            <TD colSpan=2 height=20><b><font size="2">
+                            <a href="http://results.vtu.ac.in/vitavireval.php">REVALUATION RESULTS</a></font></b></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD height="38">
+                        <TABLE cellSpacing=0 cellPadding=0 width=183 border=0>
+                          <TBODY><TR>
+                            <TD colSpan=2 height=20>&nbsp;</TD>
+                          </TR>
+                          <TR>
+                            <TD>&nbsp;</TD>
+                          </TR>
+                          <TR>
+                            <TD colSpan=2 height=20>&nbsp;</TD>
+                          </TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD height="38">
+                        <TABLE cellSpacing=0 cellPadding=0 width=183 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD><b></b></TD>
+                          </TR>
+                          <TR>
+                            <TD colSpan=2 height=20>&nbsp;</TD>
+                          </TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD height="38">
+                        <TABLE cellSpacing=0 cellPadding=0 width=183 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD>&nbsp;</TD>
+                          </TR>
+                          <TR>
+                            <TD colSpan=2 height=20>&nbsp;</TD>
+                          </TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+                <TD width=5></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD><!-- end of first column --><!-- second column -->
+    <TD vAlign=top width=428 height="721">
+      <TABLE cellSpacing=0 cellPadding=0 width=428 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top>
+            <table cellspacing=0 cellpadding=0 border=0 width="519">
+              <tbody>
+                <tr>
+                  <td><a href="http://results.vtu.ac.in/../about.html" onClick="return menuPop(this);" onMouseOut="rollover('about','off');" onMouseOver="rollover('about','on');menuPop(this);"> </a></td>
+                  <td><a href="http://results.vtu.ac.in/../admin_vtu.php" onMouseOut="rollover('administration','off');" onMouseOver="rollover('administration','on');"> </a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="http://results.vtu.ac.in/../courses.html" onClick="return menuPop(this);" onMouseOut="rollover('courses','off');" onMouseOver="rollover('courses','on');menuPop(this);"> </a></td>
+                  <td><a onMouseOut="rollover('examinations','off');" onMouseOver="rollover('examinations','on');" href="http://results.vtu.ac.in/exam_tt_vtu.php"> </a></td>
+                  <td><a href="http://results.vtu.ac.in/../regions.html" onClick="return menuPop(this);" onMouseOut="rollover('regions','off');" onMouseOver="rollover('regions','on');menuPop(this);"></a></td>
+                  <td width="57"><a href="http://results.vtu.ac.in/../vitavi.php" onMouseOut="rollover('news','off');" onMouseOver="rollover('news','on');"></a></td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- MAIN TOP NAVIGATION TABLE -->
+            <!-- MAIN TOP NAVIGATION TABLE --></TD>
+        </TR>
+        <TR>
+          <TD vAlign=top></TD></TR>
+        <TR>
+          <TD bgColor=#ffffff>
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top align=right colSpan=2><IMG alt="" border=0 height=15 src="http://results.vtu.ac.in/../image/bevel.gif" width=15></TD></TR>
+              <TR>
+                <TD vAlign=top align=left>
+
+
+<table border=0 width=100%><tr> <td><br>&nbsp;&nbsp;January 20, 2015 <br></td></tr></table>
+<TABLE cellSpacing=0 cellPadding=4 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width=515 bgColor=#ffffff border=0>
+                          <TBODY>
+<TR>
+<TD>
+<h4 class="style1"> RESULTS (PROVISIONAL)</h4>
+<h4><br>
+
+<br>
+ <br>
+&nbsp;</h4>
+
+</TD></TR><TR>
+
+                           <TD width="513">
+
+<br><b> Results <br><br>
+<br>B.E/B.Tech VII/VIII Semester Results Announced for Bangalore Region of Examination Dec 2014/Jan 2015.<br> MCA I Semester Results Announced for all Region of Examination Dec 2014/Jan 2015.<br> B.E/B.Tech I / II Semester Results Announced for All Region of Examination Dec 2014/Jan 2015.<br> MBA I Semester Results Announced for all Region of Examination Dec 2014/Jan 2015.<br> B.Arch ALL Semester Results Announced for all Region of Examination Dec 2014/Jan 2015.<br> M.Tech VI Semester ( Part Time ) Results Announced for all Region of Examination Nov / Dec 2014<br> MCA II,III,IV & V Semester Results Announced for all Region of Examination Dec 2014/Jan 2015.<br> M.Tech IV Semester Results Announced for all Region of Examination Dec 2014/Jan 2015.<br> MBA II,III & IV Semester Results Announced for all Region of Examination Dec 2014/Jan 2015.<br> <br><FORM name="new" ACTION=http://results.vtu.ac.in/vitavi.php METHOD=POST>
+ <P>Enter the University Seat No: <INPUT TYPE=TEXT NAME="rid" SIZE=20 MAXLENGTH=50><BR><BR><BR><BR>
+ <INPUT TYPE=SUBMIT NAME="submit" VALUE="SUBMIT" ALIGN="center"><br><hr>
+  <table width="502" bordercolor="#000000" cellspacing="1" border="1">
+ <tr>
+ <td align="center" width="362">RV / RT/ PC & CRV NOTIFICATIONS </td><td align="center" width="130"></td></tr>
+<tr><td align="justify" width="362"><b>Last date for Applying online RV/RT & PC for B.E/B.Tech  notification visit site <a href="http://vtu.ac.in/">www.vtu.ac.in</a><b><tr><td align="justify" width="362"><b>Last date for Applying Challenge Valuation for MBA,MCA & M.Tech visit notification visit site <a href="http://vtu.ac.in/">www.vtu.ac.in</a> </b></td><td><b><b></b></b></td></tr></b>
+ 
+ </b></td></tr></table><br><br>
+ 
+1.  Applications received after the last date will be rejected and no communications will be entertained.<br>
+2.  Application forms in which the subject codes do not conform to the respective subject applied will be processed on the subject codes only.
+<br> <B>NOTE : Separate applications should be submitted for Revaluation (RV/ Pink Colour) and Retotaling (RT) / Photo Copy (PC/ Sky Blue colour).</B>
+<br><bR>
+<br>
+
+
+                              </P></FORM></b></TD></TR>
+                          <TR>
+                            <TD width="513">
+                            <ul>
+                              
+                              
+                            </ul>
+                            <p align="right"><b>Sd/-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            </b></p>
+                            <p align="right"><b>REGISTRAR(EVALUATION)</b></p>
+                              <TABLE cellSpacing=0 cellPadding=0 border=0>
+                                <TBODY>
+                                <TR>
+                                <TD width=5><IMG alt="" border=0 height=1 src="http://results.vtu.ac.in/../image/px.gif" width=5></TD>
+                                <TD vAlign=top></TD>
+                                <TD width="99%" background=http://results.vtu.ac.in/../image/line.gif><IMG alt="" border=0 height=1 src="http://results.vtu.ac.in/../image/px.gif" width=300></TD>
+                                <TD width=5><IMG alt="" border=0 height=1 src="http://results.vtu.ac.in/../image/px.gif" width=5></TD></TR></TBODY></TABLE></TD></TR>
+                          <TR>
+                            <TD width="513">
+
+                            </TD></TR>
+                          <TR>
+                            <TD width="513">
+                          </TD></TR>
+                          <TR>
+                            <TD width="513">
+                              <TABLE cellSpacing=0 cellPadding=0 border=0>
+                                <TBODY>
+                                <TR>
+                                <TD width=5><IMG alt="" border=0 height=1 src="http://results.vtu.ac.in/../image/px.gif" width=5></TD></TR></TBODY></TABLE></TD></TR>
+                          </TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+                <TD vAlign=top><IMG alt="" border=0 height=420 src="http://results.vtu.ac.in/../image/px.gif" width=1></TD></TR>
+              <TR>
+                <TD vAlign=top colSpan=2>
+                  <!--<TABLE cellSpacing=0 cellPadding=1 width="100%" border=0>
+                    <TBODY>
+                    <TR bgColor=#809cc9>
+                      <TD><A onmouseover="rollover('legal','on');"
+                        onmouseout="rollover('legal','off');"
+                        href=""><IMG
+                        alt="" border=0 height=19 name=legal
+                        src="../image/legal.gif" width=91></A></TD>
+                      <TD align=right><A
+                        onmouseover="rollover('privacy','on');"
+                        onmouseout="rollover('privacy','off');"
+                        href=""><IMG
+                        alt="" border=0 height=19 name=privacy
+                        src="../image/privacy.gif"
+              width=39></A></TD></TR></TBODY></TABLE>--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD><!-- end of second column -->
+    <TD vAlign=top height="721">
+      <TABLE cellSpacing=0 cellPadding=0 width=140 border=0 height="367">
+        <TBODY>
+        <TR>
+          <TD width=6 height="16"><IMG alt="" border=0 height=1 src="http://results.vtu.ac.in/../image/px.gif" width=6></TD>
+          <TD vAlign=top height="16">
+            <!--<TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top>
+                <A href="vitavi.php" onmouseout="rollover('mediakit','off');" onmouseover="rollover('mediakit','on');" ><IMG align=left border=0 height=21 name=mediakit src="../image/mediakitoff.gif" width=57></A></TD></TR>
+              <TR>
+                <TD vAlign=top>
+                <A href="vitavi.php" onmouseout="rollover('contactus','off');" onmouseover="rollover('contactus','on');" ><IMG align=left border=0 height=21 name=contactus src="../image/contactusoff.gif" width=74></A></TD></TR>
+              <TR>
+                <TD vAlign=top><IMG align=left border=0 height=21 src="../image/kb_off.gif" width=110></TD></TR></TBODY></TABLE>--></TD></TR>
+        <TR>
+          <TD height="351"></TD>
+          <TD vAlign=top height="351" align="left">
+          &nbsp;
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>
+          </p></TD></TR></TBODY></TABLE></TD><!-- end of third column --></TR></TBODY></TABLE></BODY></HTML>
